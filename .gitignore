@@ -2,6 +2,7 @@
 
 venv
 .env
+curso_python/
 
 *.py[co]
 __pycache__
